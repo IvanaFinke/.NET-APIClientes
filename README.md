@@ -5,5 +5,6 @@
 •	Usando dotnet CLI (desde la carpeta raíz o la del proyecto) escribir el siguiente comando:
 <h4>dotnet add APIClientes package Swashbuckle.AspNetCore</h4>
 
-<h3>-2. En el archivo Program.cs</h3>
+<h3>-2. En el archivo Program.cs:</h3>
+•	Luego de la creacion de los controladores **builder.Services.AddControllers();**
 
