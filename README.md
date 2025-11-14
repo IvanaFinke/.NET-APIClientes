@@ -1,5 +1,4 @@
-# .NET-APIClientes
-API REST de manejo de clientes en una compañia
+<h1 align = center>API REST de manejo de clientes en una compañia</h1> 
 
 <h3>Pasos de instalacion de Swagger para testear la API en navegador:</h3>
 - 1. Instalar el paquete NuGet
