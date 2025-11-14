@@ -6,5 +6,14 @@
 <h4>dotnet add APIClientes package Swashbuckle.AspNetCore</h4>
 
 <h3>-2. En el archivo Program.cs:</h3>
-•	Luego de la creacion de los controladores __builder.Services.AddControllers();__
+•	Luego de la creacion de los controladores builder.Services.AddControllers();
+Agregamos el Swagger:
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+•	Configuramos Swagger para producción:
+
+
+
+
 
