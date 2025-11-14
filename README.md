@@ -5,5 +5,5 @@
 •	Usando dotnet CLI (desde la carpeta raíz o la del proyecto) escribir el siguiente comando:
 dotnet add APIClientes package Swashbuckle.AspNetCore
 
--2. En el archivo Program.cs
+<h3>-2. En el archivo Program.cs</h3>
 
