@@ -4,7 +4,7 @@
 <h3>- 1. Instalar el paquete NuGet</h3>
 •	Usando dotnet CLI (desde la carpeta raíz o la del proyecto) escribir el siguiente comando:
 
-dotnet add APIClientes package Swashbuckle.AspNetCore
+<h4>dotnet add APIClientes package Swashbuckle.AspNetCore</h4>
 
 <h3>-2. En el archivo Program.cs</h3>
 
